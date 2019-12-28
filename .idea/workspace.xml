@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cc9cd20-93d9-4486-aa6f-92123fbbb1f5" name="Default Changelist" comment="" />
+    <list default="true" id="8cc9cd20-93d9-4486-aa6f-92123fbbb1f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UdOvrtqSIux7d06mxc2yRvGl4i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
@@ -37,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.embeddingsModel">
+  <component name="RunManager" selected="Python.tests">
     <configuration name="convert-glove-to-word2vec" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Stance Detection" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="resave_embeddings_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Stance Detection" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,7 +162,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/resave_embeddings_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,17 +175,17 @@
       <item itemvalue="Python.preprocessing" />
       <item itemvalue="Python.frequencyModels" />
       <item itemvalue="Python.embeddingsModel" />
-      <item itemvalue="Python.resave_embeddings_file" />
       <item itemvalue="Python.convert-glove-to-word2vec" />
       <item itemvalue="Python.preprocessing (1)" />
+      <item itemvalue="Python.tests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tests" />
         <item itemvalue="Python.embeddingsModel" />
         <item itemvalue="Python.frequencyModels" />
         <item itemvalue="Python.preprocessing (1)" />
         <item itemvalue="Python.convert-glove-to-word2vec" />
-        <item itemvalue="Python.resave_embeddings_file" />
       </list>
     </recent_temporary>
   </component>
@@ -194,5 +201,18 @@
       <updated>1575683238662</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
